@@ -1,3 +1,3 @@
 # Basics
-learning using github
+learning using github.
 Author - Mohd. Arsh
